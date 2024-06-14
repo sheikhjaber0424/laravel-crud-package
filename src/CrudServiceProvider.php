@@ -29,7 +29,7 @@ class  CrudServiceProvider extends ServiceProvider
             __DIR__ . '/../stubs/Controllers/ArticleController.php' => app_path('Http/Controllers/Api/ArticleController.php'),
             // __DIR__ . '/../stubs/Resources/UserResource.php' => app_path('Http/Resources/UserResource.php'),
             // __DIR__ . '/../stubs/routes/crud.php' => base_path('routes/api.php'),
-        ], 'jaber2424-crud-package');
+        ], 'jaber0424-crud-package');
 
         $this->registerRoutes();
     }
