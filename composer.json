@@ -1,0 +1,17 @@
+{
+    "name": "jaber0424/jaber0424-crud-package",
+    "description": "Api first Crud package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jaber0424\\Jaber0424CrudPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sheikhjaber0424",
+            "email": "sheikhjaber190@gmail.com"
+        }
+    ],
+    "require": {}
+}
