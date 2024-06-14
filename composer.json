@@ -13,5 +13,12 @@
             "email": "sheikhjaber190@gmail.com"
         }
     ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Jaber0424\\Jaber0424CrudPackage\\CrudServiceProvider"
+            ]
+        }
+    },
     "require": {}
 }
